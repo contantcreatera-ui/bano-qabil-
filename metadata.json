@@ -1,0 +1,8 @@
+{
+  "name": "Bano Qabil — Free IT Training & Youth Empowerment",
+  "description": "Bano Qabil Hyderabad Chapter — An Alkhidmat Foundation initiative empowering youth in Hyderabad, Sindh through 100% free certified IT education, physical computer labs, and digital vocational skills training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
